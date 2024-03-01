@@ -25,7 +25,7 @@ function PartnersSection() {
                 Meet the partners who help us transform lives
             </div>
             <div>
-                Businesses and fellow foundations have given their time and support to help us make a difference in children's lives.
+                Businesses and fellow foundations have given their time and support to help us make a difference in children&apos;s lives.
             </div>
             <div className="flex flex-col gap-8">
 

@@ -11,7 +11,7 @@ function SponsorSection() {
                             See what our sponsors and volunteers have to say
                         </div>
                         <div className=" w-[28rem] sm:w-fit text-center">
-                            "When I visited Kyrie, I was blown away by the gratitude I received. Seeing how my small monthly donation changed her life was a heartwarming experience.
+                            When I visited Kyrie, I was blown away by the gratitude I received. Seeing how my small monthly donation changed her life was a heartwarming experience.
                             <br />
                             <span className="font-bold">
                                 – Helene P., sponsor since 2009
@@ -19,7 +19,7 @@ function SponsorSection() {
                         </div>
 
                         <div className="w-[28rem] sm:w-fit text-center">
-                            "Spending time with the kids and seeing their happiness as they learn from me is a rewarding experience. Knowing I am helping make their life better in such a small way is an amazing feeling."
+                            Spending time with the kids and seeing their happiness as they learn from me is a rewarding experience. Knowing I am helping make their life better in such a small way is an amazing feeling.
                             <br />
                             <span className="font-bold">
                                 – Shawn G., volunteer educator since 2012
